@@ -1,0 +1,17 @@
+*Se Realizo la construccion de la pagina inicial desde la cual el vendedor podra
+tener una visualizacion de los productos disponibles para la venta adicionalmente 
+*se agregro un boton con el cual el vendedor podra realizar los pedidos 
+
+*Se implementaron los botones standar para desplazarse por toda la web 
+
+*Se Realizo la construccion de la interfaz grafica para la funcion de realizar pedidos
+en la cual se realizo la logica necesaria para que el vendedor pueda visualizar dentro
+del formulario del pedido la informacion de varias tablas dentro de la base de datos
+
+
+*Se implemento la logica matematica para calcular el monto total a pagar por el cliente
+
+*Se implemento la logica para calcular el monto total a devolver a el cliente  
+
+*Se creo la logica sql necesaria para insertar el pedido en la base de datos 
+
