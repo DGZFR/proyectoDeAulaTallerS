@@ -1,0 +1,9 @@
+*Se Realizo la construccion de la interfaz grafica en la cual se podra visualizar
+los pedidos realizados en el restaurante 
+
+*Se implementaron los botones standar para desplazarse por toda la web 
+
+*se agrego un buscador en el cual mediante el nombre del cliente, se podran visualizar 
+todos los pedidos realizados por el cliente 
+
+
